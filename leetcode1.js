@@ -1,3 +1,5 @@
+//2506 Count Pairs Of Similar Strings
+
 let words = ["ab","aabb","ba"];
 let count =0;
 for(let i=0;i<words.length;i++){
