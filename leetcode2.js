@@ -11,6 +11,7 @@ if(str1.length<str2.length){
 
 console.log(limit);
 
+
 for(let i=0;i<limit;i++){
     if(str1.length>i){
         word1+=str1[i];
