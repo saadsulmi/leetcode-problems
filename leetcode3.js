@@ -33,6 +33,7 @@ class pillowTransfer{
             }
         }
     }
+    
     pillow(time){
         let flag=1;
         let i=1, n=1;
