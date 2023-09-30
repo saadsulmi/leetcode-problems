@@ -1,4 +1,4 @@
-//Remove Digit From Number to Maximize Result
+//2259 Remove Digit From Number to Maximize Result
 
 //return the resulting value after removing exactly one occurrence of digit
 
